@@ -1,0 +1,9 @@
+github.com/KercyLAN/dev-kits v1.0.3-Realize h1:F+mauH4GQF9u6HybNVhn9GICMvaDomdmwAqEXzWye8M=
+github.com/KercyLAN/dev-kits v1.0.3-Realize/go.mod h1:w7VNtN5q6mliAgjAiiVWmB8NR+B1+L1sV/bbTsZqjCw=
+github.com/KercyLAN/secret-dimension-core v0.0.0-20201012065146-28ede75e5363 h1:KHY3m3J3jfnPdnjaT+FshSBvtJNcblS8RiOtGcIZUmc=
+github.com/axgle/mahonia v0.0.0-20180208002826-3358181d7394/go.mod h1:Q8n74mJTIgjX4RBBcHnJ05h//6/k6foqmgE45jTQtxg=
+github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
+github.com/kr/text v0.1.0/go.mod h1:4Jbv+DJW3UT/LiOwJeYQe1efqtUx/iVham/4vfdArNI=
+github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e/go.mod h1:zD1mROLANZcx1PVRCS0qkT7pwLkGfwJo4zjcN/Tysno=
+github.com/satori/go.uuid v1.2.0/go.mod h1:dA0hQrYB0VpLJoorglMZABFdXlWrHn1NEOzdhQKdks0=
+gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
