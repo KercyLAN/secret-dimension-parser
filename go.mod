@@ -1,4 +1,4 @@
-module secret-dimension-parser
+module github.com/KercyLAN/secret-dimension-parser
 
 go 1.14
 
